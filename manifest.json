@@ -6,6 +6,6 @@
   "changelog": [
     ""
   ],
-  "apkUrl": "https://github.com/Fisny/NT_manifest/blob/main/releases/download/com.companyname.navaltest.apk",
+  "apkUrl": "https://raw.githubusercontent.com/Fisny/NT_manifest/main/releases/download/com.companyname.navaltest.apk",
   "apkSha256": "APK_SHA_256"
 }
