@@ -3,9 +3,6 @@
   "versionName": "1.1.4",
   "versionCode": 114,
   "minSupported": 111,
-  "changelog": [
-    ""
-  ],
-  "apkUrl": "https://raw.githubusercontent.com/Fisny/NT_manifest/main/releases/download/com.companyname.navaltest.apk",
-  "apkSha256": "APK_SHA_256"
+  "changelog": [ "" ],
+  "testerPortalUrl": "https://appdistribution.firebase.dev"
 }
