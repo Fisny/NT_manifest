@@ -1,7 +1,7 @@
 {
   "package": "com.companyname.navaltest",
-  "versionName": "1.1.5",
-  "versionCode": 115,
+  "versionName": "1.1.7",
+  "versionCode": 117,
   "minSupported": 111,
   "changelog": [ "" ],
   "testerPortalUrl": "https://appdistribution.firebase.dev"
